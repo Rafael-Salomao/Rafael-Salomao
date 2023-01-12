@@ -7,5 +7,4 @@ Formado em Engenharia de Manufatura pela Universidade Estadual de Campinas (Unic
 Me sinto confortável em ambientes que me ofereçam desafios alinhados com minhas habilidades analíticas, pensamento crítico e integridade para somar ao meu desenvolvimento e o da organização. Confiante na capacidade de executar soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. Sempre com muita vontade de aprender e colocar a mão na massa.
 
 *Quer falar comigo?* 
-* Escreva um e-mail para rafael.salomaod96@gmail.com 
-* Ou me chame no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
+* Conecte comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com 
