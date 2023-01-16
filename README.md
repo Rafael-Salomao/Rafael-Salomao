@@ -1,6 +1,6 @@
 ### *Olá, sou Rafael. Bem-vindo ao meu portfólio de Data Science.* 👋
 
-Sou um entusiasta do poder dos dados para geração de valor em uma organização. Almejo uma posição inicial como Cientista de Dados para colocar em prática o que acredito ser os três principais objetivos desta área: aumentar faturamento, reduzir custos e melhorar a qualidade de vida.
+Sou um entusiasta do poder dos dados para geração de valor em uma organização. Almejo uma posição inicial como Cientista de Dados para colocar em prática o que acredito ser os três principais objetivos da Ciência de dados: aumentar faturamento, reduzir custos e melhorar a qualidade de vida.
 
 Formado em Engenharia de Manufatura pela Universidade Estadual de Campinas (Unicamp), no início de carreira, ainda como estagiário, escolhi seguir na área de operações em uma multinacional. Nesta mesma empresa, fui efetivado e as principais funções em que atuo são: gestão de inventário, conversão de backlog, operações de vendas e melhoria contínua.
 
