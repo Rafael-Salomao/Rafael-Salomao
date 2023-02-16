@@ -6,7 +6,7 @@ Sou deslumbrado pelo poder dos dados para geração de valor em uma organizaçã
 
 Me sinto confortável em ambientes que me ofereçam desafios alinhados com minhas habilidades analíticas, pensamento crítico e integridade para somar ao meu desenvolvimento e o da organização. Confiante na capacidade de executar soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. Sempre com muita vontade de aprender e colocar a mão na massa.
 
-Conhecimentos em programação: Python, SQL, AWS.
+Conhecimentos em programação: Python, SQL.
 
 *Quer falar comigo?* 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com 
