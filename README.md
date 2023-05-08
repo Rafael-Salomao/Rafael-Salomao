@@ -8,9 +8,10 @@ Me sinto confortável em ambientes que me ofereçam desafios alinhados com minha
 
 Conhecimentos em programação: 
 - Python (Pandas, Numpy, Matplotlib, Scikit-learn);
-- SQL;
+- SQL (Joins; Case When; Union; Funções de Janelamento. Funções Gerais de String, Numéricos e Datas);
+- Pyspark (Dataframe API e SparkSQL);
 - AWS (S3, EMR, Lambda, Athena, CloudWatch);
-- Data architecture.
+- Data Architecture.
 
 *Quer falar comigo?* 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com 
