@@ -15,3 +15,5 @@ Conhecimentos em programação:
 
 *Quer falar comigo?* 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com 
+
+Também estou presente no [Medium](https://medium.com/@rafael.salomaod), compartilhando aprendizados ao longo dos meus estudos em Big Data & Analytics.
