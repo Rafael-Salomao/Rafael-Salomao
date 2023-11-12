@@ -6,7 +6,9 @@ Sou deslumbrado pelo poder dos dados para geração de valor em uma organizaçã
 
 Me sinto confortável em ambientes que me ofereçam desafios alinhados com minhas habilidades analíticas, pensamento crítico e integridade para somar ao meu desenvolvimento e o da organização. Confiante na capacidade de executar soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. Sempre com muita vontade de aprender e colocar a mão na massa, de maneira consistência e com foco no longo prazo.
 
-Conhecimentos em programação: 
+Conhecimentos técnicos:
+- Captura, tratamento, manipulação dos dados para desenvolvimento de modelos estatísticos.
+- Modelos estatísticos: Regressão, Classificação e Clusterização.
 - Python (Pandas, Numpy, Matplotlib, Scikit-learn);
 - SQL (Joins; Case When; Union; Funções de Janelamento. Funções Gerais de String, Numéricos e Datas);
 - Pyspark (Dataframe API e SparkSQL);
