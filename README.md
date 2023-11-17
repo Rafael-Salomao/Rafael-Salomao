@@ -1,4 +1,4 @@
-### *Olá, sou Rafael. Bem-vindo ao meu portfólio de Big Data & Analytics.* 👋
+### *Olá, sou Rafael. Bem-vindo ao meu portfólio de Ciência de Dados.* 👋
 
 Formado em Engenharia pela Unicamp, no início de carreira, ainda como estagiário, escolhi seguir na área de operações em uma multinacional. Nesta mesma empresa, fui efetivado e as principais funções em que atuo são: gestão de inventário, conversão de backlog, operações de vendas e melhoria contínua.
 
