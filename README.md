@@ -14,8 +14,8 @@ Sinto-me à vontade em ambientes desafiadores, onde posso aplicar minhas habilid
 - Conhecimento em arquitetura de dados.
 
 *Quer entrar em contato?* 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou, se preferir, envie um e-mail para rafael.salomaod96@gmail.com.
 
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou, se preferir, envie um e-mail para rafael.salomaod96@gmail.com.
 Também compartilho meus aprendizados ao longo dos estudos em Big Data & Analytics no [Medium](https://medium.com/@rafael.salomaod).
 
 **Fique à vontade para explorar meus principais projetos nos repositórios abaixo.**
