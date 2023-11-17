@@ -1,21 +1,19 @@
-### *Olá, sou Rafael. Bem-vindo ao meu portfólio de Ciência de Dados.* 👋
+### *Olá, eu sou Rafael. Bem-vindo ao meu portfólio de Ciência de Dados.* 👋
 
-Formado em Engenharia pela Unicamp, no início de carreira, ainda como estagiário, escolhi seguir na área de operações em uma multinacional. Nesta mesma empresa, fui efetivado e as principais funções em que atuo são: gestão de inventário, conversão de backlog, operações de vendas e melhoria contínua.
+Sou graduado em Engenharia pela Unicamp e, no início da minha carreira como estagiário, optei por trilhar o caminho das operações em uma multinacional. Ao longo do tempo, fui efetivado e assumi responsabilidades como gestão de inventário, conversão de backlog, operações de vendas e iniciativas de melhoria contínua.
 
-Sou deslumbrado pelo poder dos dados para geração de valor em uma organização. Almejo uma posição na área de Ciência de Dados para colocar em prática o que venho estudando, com o objetivo de aumentar faturamento, reduzir custos e melhorar a qualidade de vida ao meu redor.
+Minha paixão pelo potencial transformador dos dados me impulsionou a buscar uma transição para a área de Ciência de Dados. Busco aplicar meus conhecimentos, adquiridos através de estudos autodidatas e cursos livres, para impulsionar o crescimento das empresas, otimizando receitas, reduzindo custos e aprimorando a qualidade de vida.
 
-Me sinto confortável em ambientes que me ofereçam desafios alinhados com minhas habilidades analíticas, pensamento crítico e integridade para somar ao meu desenvolvimento e o da organização. Confiante na capacidade de executar soluções relevantes para melhorar os resultados da empresa e, assim, me tornar um profissional de destaque. Sempre com muita vontade de aprender e colocar a mão na massa, de maneira consistência e com foco no longo prazo.
+Sinto-me à vontade em ambientes desafiadores, onde posso aplicar minhas habilidades analíticas, pensamento crítico e integridade. Estou confiante na minha capacidade de desenvolver soluções relevantes para impulsionar os resultados da empresa, almejando tornar-me um profissional de destaque.
 
-Conhecimentos técnicos:
-- Captura, tratamento, manipulação de dados para desenvolvimento de modelos estatísticos.
-- Modelos estatísticos: Regressão, Classificação e Clusterização.
-- Python (Pandas, Numpy, Matplotlib, Scikit-learn);
-- SQL (Joins; Case When; Union; Funções de Janelamento. Funções Gerais de String, Numéricos e Datas);
-- Pyspark (Dataframe API e SparkSQL);
-- AWS (S3, EMR, Lambda, Athena, CloudWatch);
-- Data Architecture.
+**Principais habilidades técnicas:**
+- Captura, tratamento e manipulação de dados para o desenvolvimento de modelos estatísticos.
+- Modelagem estatística: Regressão, Classificação e Clusterização.
+- Linguagens: Python, SQL, Pyspark.
+- Experiência em cloudcomputing: AWS - S3, EMR, Lambda, Athena, CloudWatch.
+- Conhecimento em arquitetura de dados.
 
-*Quer falar comigo?* 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou se preferir, escreva um e-mail para rafael.salomaod96@gmail.com 
+*Quer entrar em contato?* 
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/) ou, se preferir, envie um e-mail para rafael.salomaod96@gmail.com.
 
-Também estou presente no [Medium](https://medium.com/@rafael.salomaod), compartilhando aprendizados ao longo dos meus estudos em Big Data & Analytics.
+Também compartilho meus aprendizados ao longo dos estudos em Big Data & Analytics no [Medium](https://medium.com/@rafael.salomaod).
