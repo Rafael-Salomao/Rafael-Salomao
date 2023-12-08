@@ -11,7 +11,8 @@ Sinto-me à vontade em ambientes desafiadores, onde posso aplicar minhas habilid
 - Modelagem estatística: Regressão, Classificação e Clusterização.
 - Linguagens: Python, SQL, Pyspark.
 - Experiência em cloudcomputing: AWS - S3, EMR, Lambda, Athena, CloudWatch.
-- Conhecimento em arquitetura de dados.
+- Versionamento: Git.
+- Arquitetura, Modelagem e ETL de Dados.
 
 *Quer entrar em contato?* 
 
