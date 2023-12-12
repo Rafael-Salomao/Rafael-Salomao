@@ -11,7 +11,7 @@
 **Quer entrar em contato?** 
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
-- E-mail: rafael.salomaod96@gmail.com.
+- rafael.salomaod96@gmail.com.
 - [Medium](https://medium.com/@rafael.salomaod).
 
 **Fique à vontade para explorar meus principais projetos nos repositórios abaixo.**
