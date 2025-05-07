@@ -1,18 +1,17 @@
-### *Olá, eu sou Rafael. Bem-vindo ao meu portfólio de Ciência de Dados.* 👋
+### *Hi, I’m Rafael. Welcome to my Data Science portfolio.* 👋
 
-**Principais habilidades técnicas:**
-- Captura, tratamento e manipulação de dados para o desenvolvimento de modelos estatísticos.
-- Modelagem estatística: Regressão, Classificação e Clusterização.
-- Linguagens: Python, SQL, Pyspark.
-- Experiência em cloudcomputing: AWS - S3, EMR, Lambda, Athena, CloudWatch.
-- Versionamento: Git.
-- Arquitetura, Modelagem e ETL de Dados.
+**Key Technical Skills:**
+- Data capture, processing, and manipulation for developing statistical models.
+- Statistical modeling: Regression, Classification, and Clustering.
+- Languages: Python, SQL, PySpark.
+- Cloud computing experience: AWS - S3, EMR, Lambda, Athena, CloudWatch.
+- Version control: Git.
+- Data Architecture, Modeling, and ETL.
 
-**Quer entrar em contato?** 
+**Want to get in touch?**
 
 - [LinkedIn](https://www.linkedin.com/in/rafaelsdomingos/)
 - [Medium](https://medium.com/@rafael.salomaod)
 - rafael.salomaod96@gmail.com
 
-**Fique à vontade para explorar meus principais projetos nos repositórios abaixo.**
-
+**Feel free to explore my main projects in the repositories below.**
